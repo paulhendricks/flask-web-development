@@ -1,1 +1,1 @@
-# flask-web-development
+# Flask Web Development: Notes and Exercises
